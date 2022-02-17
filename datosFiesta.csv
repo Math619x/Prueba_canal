@@ -1,0 +1,11 @@
+﻿Fecha_Limite,Fiesta,Desganado,Actividad
+Urgente,Si,Si,Fiesta
+Urgente,No,Si,Estudiar
+Cercana,Si,Si,Fiesta
+No,Si,No,Fiesta
+No,No,Si,Bar
+No,Si,No,Fiesta
+Cercana,No,No,Estudiar
+Cercana,No,Si,TV
+Cercana,Si,Si,Fiesta
+Urgente,No,No,Estudiar
